@@ -1,0 +1,10 @@
+
+#movie {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+}
+
+#title {
+    background-color: lightgray;
+}
